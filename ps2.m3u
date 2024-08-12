@@ -123,6 +123,8 @@ http://watchindia.net:8880/live/65596/46234/1761.ts
 http://watchindia.net:8880/live/65596/46234/1762.ts
 #EXTINF:-1,-1 tvg-id="kaumudytv.in" tvg-name="Kaumudy TV" tvg-logo="https://watchindia.net/images/channels/malayalam/Kaumudy_TV.png" group-title="Malayalam",Kaumudy TV
 http://watchindia.net:8880/live/65596/46234/305.ts
+#EXTINF:-1,-1 tvg-id="" tvg-name="Kerala Vision" tvg-logo="https://watchindia.net/images/channels/malayalam/Kerala_Vision.png" group-title="Malayalam",Kerala Vision
+http://watchindia.net:8880/live/65596/46234/2644.ts
 #EXTINF:-1,-1 tvg-id="kochutv.in" tvg-name="Kochu TV" tvg-logo="https://watchindia.net/images/channels/malayalam/Kochu_TV.png" group-title="Malayalam",Kochu TV
 http://watchindia.net:8880/live/65596/46234/290.ts
 #EXTINF:-1,-1 tvg-id="" tvg-name="Magnavision TV" tvg-logo="https://watchindia.net/images/channels/malayalam/Magnavision_TV.png" group-title="Malayalam",Magnavision TV
@@ -227,8 +229,6 @@ http://watchindia.net:8880/live/65596/46234/791.ts
 http://watchindia.net:8880/live/65596/46234/835.ts
 #EXTINF:-1,-1 tvg-id="1sports.in" tvg-name="Kadak Hits HD" tvg-logo="https://watchindia.net/images/channels/hindi/Kadak_Hits_HD.png" group-title="Hindi",Kadak Hits HD
 http://watchindia.net:8880/live/65596/46234/798.ts
-#EXTINF:-1,-1 tvg-id="manoranjan.movies.in" tvg-name="Manoranjan Movies" tvg-logo="https://watchindia.net/images/channels/hindi/Manoranjan_Movies.png" group-title="Hindi",Manoranjan Movies
-http://watchindia.net:8880/live/65596/46234/804.ts
 #EXTINF:-1,-1 tvg-id="mastiii.in" tvg-name="Mastiii" tvg-logo="https://watchindia.net/images/channels/hindi/Mastiii.png" group-title="Hindi",Mastiii
 http://watchindia.net:8880/live/65596/46234/826.ts
 #EXTINF:-1,-1 tvg-id="mtvbeatshd.in" tvg-name="MTV Beats HD" tvg-logo="https://watchindia.net/images/channels/hindi/MTV_Beats_HD.png" group-title="Hindi",MTV Beats HD
@@ -333,7 +333,7 @@ http://watchindia.net:8880/live/65596/46234/871.ts
 http://watchindia.net:8880/live/65596/46234/880.ts
 #EXTINF:-1,-1 tvg-id="nambikkaitv.in" tvg-name="Nambikkai TV" tvg-logo="https://watchindia.net/images/channels/tamil/Nambikkai_TV.png" group-title="Tamil",Nambikkai TV
 http://watchindia.net:8880/live/65596/46234/856.ts
-#EXTINF:-1,-1 tvg-id="news18tamilnadu.in" tvg-name="News 18" tvg-logo="https://watchindia.net/images/channels/tamil/News_18.png" group-title="Tamil",News 18
+#EXTINF:-1,-1 tvg-id="news18tamilnadu.in" tvg-name="News18" tvg-logo="https://watchindia.net/images/channels/tamil/News_18.png" group-title="Tamil",News18
 http://watchindia.net:8880/live/65596/46234/873.ts
 #EXTINF:-1,-1 tvg-id="news7.in" tvg-name="News 7" tvg-logo="https://watchindia.net/images/channels/tamil/News_7.png" group-title="Tamil",News 7
 http://watchindia.net:8880/live/65596/46234/867.ts
@@ -415,8 +415,6 @@ http://watchindia.net:8880/live/65596/46234/957.ts
 http://watchindia.net:8880/live/65596/46234/956.ts
 #EXTINF:-1,-1 tvg-id="sakshitv.in" tvg-name="Sakshi TV" tvg-logo="https://watchindia.net/images/channels/telugu/Sakshi_TV.png" group-title="Telugu",Sakshi TV
 http://watchindia.net:8880/live/65596/46234/955.ts
-#EXTINF:-1,-1 tvg-id="sony.yay.in" tvg-name="Sony Yay Telugu" tvg-logo="https://watchindia.net/images/channels/kids/Sony_Yay.png" group-title="Telugu",Sony Yay Telugu
-http://watchindia.net:8880/live/65596/46234/2126.ts
 #EXTINF:-1,-1 tvg-id="tnews.in" tvg-name="T News" tvg-logo="https://watchindia.net/images/channels/telugu/T_News.png" group-title="Telugu",T News
 http://watchindia.net:8880/live/65596/46234/949.ts
 #EXTINF:-1,-1 tvg-id="thanthitv.in" tvg-name="Thanthi TV" tvg-logo="https://watchindia.net/images/channels/telugu/Thanthi_TV.png" group-title="Telugu",Thanthi TV
@@ -2637,3 +2635,9 @@ http://watchindia.net:8880/movie/65596/46234/2640.mkv
 http://watchindia.net:8880/movie/65596/46234/2641.mkv
 #EXTINF:-1,-1 tvg-id="" tvg-name="Malayalee from India (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mOqYSsuaDi9D6dh0GRF8gj2ilJQ.jpg" group-title="Malayalam",Malayalee from India (2024)
 http://watchindia.net:8880/movie/65596/46234/2642.mkv
+#EXTINF:-1,-1 tvg-id="" tvg-name="Turbo (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/CBRqel4Yzm8BS4fTMScYA1fQLD.jpg" group-title="Malayalam",Turbo (2024)
+http://watchindia.net:8880/movie/65596/46234/2645.mkv
+#EXTINF:-1,-1 tvg-id="" tvg-name="Golam (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zmaN9K4VTyoqYxiTtP8T8tJQTz3.jpg" group-title="Malayalam",Golam (2024)
+http://watchindia.net:8880/movie/65596/46234/2646.mkv
+#EXTINF:-1,-1 tvg-id="" tvg-name="Nadanna Sambhavam (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/qbL2hGERpXe5Tm84z66RPIzTNA.jpg" group-title="Malayalam",Nadanna Sambhavam (2024)
+http://watchindia.net:8880/movie/65596/46234/2647.mkv
