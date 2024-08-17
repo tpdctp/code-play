@@ -123,8 +123,6 @@ http://watchindia.net:8880/live/65596/46234/1761.ts
 http://watchindia.net:8880/live/65596/46234/1762.ts
 #EXTINF:-1,-1 tvg-id="kaumudytv.in" tvg-name="Kaumudy TV" tvg-logo="https://watchindia.net/images/channels/malayalam/Kaumudy_TV.png" group-title="Malayalam",Kaumudy TV
 http://watchindia.net:8880/live/65596/46234/305.ts
-#EXTINF:-1,-1 tvg-id="" tvg-name="Kerala Vision" tvg-logo="https://watchindia.net/images/channels/malayalam/Kerala_Vision.png" group-title="Malayalam",Kerala Vision
-http://watchindia.net:8880/live/65596/46234/2644.ts
 #EXTINF:-1,-1 tvg-id="kochutv.in" tvg-name="Kochu TV" tvg-logo="https://watchindia.net/images/channels/malayalam/Kochu_TV.png" group-title="Malayalam",Kochu TV
 http://watchindia.net:8880/live/65596/46234/290.ts
 #EXTINF:-1,-1 tvg-id="" tvg-name="Magnavision TV" tvg-logo="https://watchindia.net/images/channels/malayalam/Magnavision_TV.png" group-title="Malayalam",Magnavision TV
