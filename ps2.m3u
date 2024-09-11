@@ -301,8 +301,6 @@ http://watchindia.net:8880/live/65596/46234/2140.ts
 http://watchindia.net:8880/live/65596/46234/2190.ts
 #EXTINF:-1,-1 tvg-id="starvijay.in" tvg-name="Adithya TV" tvg-logo="https://watchindia.net/images/channels/tamil/Adithya_TV.png" group-title="Tamil",Adithya TV
 http://watchindia.net:8880/live/65596/46234/855.ts
-#EXTINF:-1,-1 tvg-id="angeltv.in" tvg-name="Angel TV HD" tvg-logo="https://watchindia.net/images/channels/tamil/Angel_TV.png" group-title="Tamil",Angel TV HD
-http://watchindia.net:8880/live/65596/46234/862.ts
 #EXTINF:-1,-1 tvg-id="chuttitv.in" tvg-name="Chutti TV" tvg-logo="https://watchindia.net/images/channels/tamil/Chutti_TV.png" group-title="Tamil",Chutti TV
 http://watchindia.net:8880/live/65596/46234/882.ts
 #EXTINF:-1,-1 tvg-id="colorstamilhd.in" tvg-name="Colors Tamil HD" tvg-logo="https://watchindia.net/images/channels/tamil/Colors_HD.png" group-title="Tamil",Colors Tamil HD
@@ -2651,3 +2649,7 @@ http://watchindia.net:8880/movie/65596/46234/2651.mkv
 http://watchindia.net:8880/movie/65596/46234/2652.mkv
 #EXTINF:-1,-1 tvg-id="" tvg-name="Pavi Caretaker (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4somiLSdtTbF4XaH3jKmNiFAPRF.jpg" group-title="Malayalam",Pavi Caretaker (2024)
 http://watchindia.net:8880/movie/65596/46234/2653.mkv
+#EXTINF:-1,-1 tvg-id="" tvg-name="Thalavan (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/l4tWW8hMfgD4EBAQ74I1WmUhgB5.jpg" group-title="Malayalam",Thalavan (2024)
+http://watchindia.net:8880/movie/65596/46234/2654.mkv
+#EXTINF:-1,-1 tvg-id="" tvg-name="Vishesham (2024)" tvg-logo="https://m.media-amazon.com/images/M/MV5BZDYwNmI1ODUtNDdhMy00Y2ExLWFkYWEtMzU0OWM0OGE1ZGFlXkEyXkFqcGc@._V1_FMjpg_UX1023_.jpg" group-title="Malayalam",Vishesham (2024)
+http://watchindia.net:8880/movie/65596/46234/2655.mkv
