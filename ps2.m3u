@@ -153,6 +153,8 @@ http://watchindia.net:8880/live/65596/46234/288.ts
 http://watchindia.net:8880/live/65596/46234/1290.ts
 #EXTINF:-1,-1 tvg-id="" tvg-name="Dhoomam (2023)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/zZ4qJFfv6UXqb6otLBW2qzOQu4C.jpg" group-title="Malayalam",Dhoomam (2023)
 http://watchindia.net:8880/movie/65596/46234/2535.mkv
+#EXTINF:-1,-1 tvg-id="" tvg-name="Kerala Vision" tvg-logo="https://watchindia.net/images/channels/malayalam/Kerala_Vision.png" group-title="Malayalam",Kerala Vision
+http://watchindia.net:8880/live/65596/46234/2644.ts
 #EXTINF:-1,-1 tvg-id="colorshd.in" tvg-name="Colors TV HD (1)" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="Hindi",Colors TV HD (1)
 http://watchindia.net:8880/live/65596/46234/801.ts
 #EXTINF:-1,-1 tvg-id="colors.in" tvg-name="Colors TV HD (2)" tvg-logo="https://watchindia.net/images/channels/hindi/Colors_TV_HD.png" group-title="Hindi",Colors TV HD (2)
@@ -363,6 +365,8 @@ http://watchindia.net:8880/live/65596/46234/2146.ts
 http://watchindia.net:8880/live/65596/46234/887.ts
 #EXTINF:-1,-1 tvg-id="zeethirai.in" tvg-name="Zee Thirai" tvg-logo="https://watchindia.net/images/channels/tamil/Zee_Thirai.png" group-title="Tamil",Zee Thirai
 http://watchindia.net:8880/live/65596/46234/2142.ts
+#EXTINF:-1,-1 tvg-id="angeltv.in" tvg-name="Angel TV HD" tvg-logo="https://watchindia.net/images/channels/tamil/Angel_TV.png" group-title="Tamil",Angel TV HD
+http://watchindia.net:8880/live/65596/46234/862.ts
 #EXTINF:-1,-1 tvg-id="starmaahd.in" tvg-name="Star Maa HD" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_TV_HD.png" group-title="Telugu",Star Maa HD
 http://watchindia.net:8880/live/65596/46234/933.ts
 #EXTINF:-1,-1 tvg-id="starmaamovieshd.in" tvg-name="Star Maa Movies HD" tvg-logo="https://watchindia.net/images/channels/telugu/Maa_Movies_HD.png" group-title="Telugu",Star Maa Movies HD
@@ -417,6 +421,8 @@ http://watchindia.net:8880/live/65596/46234/942.ts
 http://watchindia.net:8880/live/65596/46234/941.ts
 #EXTINF:-1,-1 tvg-id="zee.telugu.in" tvg-name="Zee Telugu" tvg-logo="https://watchindia.net/images/channels/telugu/Zee.png" group-title="Telugu",Zee Telugu
 http://watchindia.net:8880/live/65596/46234/940.ts
+#EXTINF:-1,-1 tvg-id="maamusic.in" tvg-name="Star Maa Music" tvg-logo="https://watchindia.net/images/channels/telugu/Star_Maa_Music.png" group-title="Telugu",Star Maa Music
+http://watchindia.net:8880/live/65596/46234/2192.ts
 #EXTINF:-1,-1 tvg-id="colorskannadahd.in" tvg-name="Colors HD Kannada" tvg-logo="https://watchindia.net/images/channels/kannada/Colors_HD.png" group-title="Kannada",Colors HD Kannada
 http://watchindia.net:8880/live/65596/46234/982.ts
 #EXTINF:-1,-1 tvg-id="colorssuper.in" tvg-name="Colors Super HD" tvg-logo="https://watchindia.net/images/channels/kannada/Colors_Super.png" group-title="Kannada",Colors Super HD
