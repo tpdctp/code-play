@@ -801,6 +801,8 @@ http://watchindia.net:8880/live/65596/46234/2514.ts
 http://watchindia.net:8880/live/65596/46234/2590.ts
 #EXTINF:-1,-1 tvg-id="cbs2wcbs.us" tvg-name="CBS (New York)" tvg-logo="https://watchindia.net/images/channels/usa/CBS.png" group-title="USA Network",CBS (New York)
 http://watchindia.net:8880/live/65596/46234/2591.ts
+#EXTINF:-1,-1 tvg-id="cbs4wfor.us" tvg-name="CBS (Miami)" tvg-logo="https://watchindia.net/images/channels/usa/CBS.png" group-title="USA Network",CBS (Miami)
+http://watchindia.net:8880/live/65596/46234/2659.ts
 #EXTINF:-1,-1 tvg-id="nbcwnbc.us" tvg-name="NBC (New York)" tvg-logo="https://watchindia.net/images/channels/usa/NBC.png" group-title="USA Network",NBC (New York)
 http://watchindia.net:8880/live/65596/46234/2537.ts
 #EXTINF:-1,-1 tvg-id="" tvg-name="Anjaam Pathiraa (2020)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/5Re5yuWSIDTbG1Ci69RtBfNCbNG.jpg" group-title="Malayalam",Anjaam Pathiraa (2020)
