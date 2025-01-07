@@ -5,7 +5,7 @@ const fs = require('fs');
 const playlistUrls = [
     'http://mega4k.one:8080/get.php?username=ramizghachi&password=874473256&type=m3u_plus',
     'http://watchindia.net:8880/get.php?username=65596&password=46234&type=m3u_plus',
-    'http://b1g.ooo:80/get.php?username=93736&password=93736&type=m3u_plus'
+    'http://starshare.org:8080/get.php?username=328503759312&password=583956375836&type=m3u_plus&output=ts'
 ];
 
 // Function to fetch and parse the M3U playlist
