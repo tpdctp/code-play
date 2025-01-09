@@ -32,7 +32,7 @@ jobs:
       - name: Commit and Push Changes
         run: |
           git add *.m3u
-          git commit -m 'Update M3U8 playlist'
+          git commit -m 'New Update'
           git push origin ${{ github.ref }}
         env:
           GITHUB_TOKEN: ${{ secrets.BINDAAS }}
