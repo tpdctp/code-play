@@ -26,13 +26,13 @@ jobs:
 
       - name: Configure git user
         run: |
-          git config --global user.name 'tpdctp'
+          git config --global user.name 'noob-mnar'
           git config --global user.email "${{ secrets.USER_EMAIL }}"
 
       - name: Commit and Push Changes
         run: |
           git add *.m3u
-          git commit -m 'New Update'
+          git commit -m 'Update M3U8 Playlist'
           git push origin ${{ github.ref }}
         env:
           GITHUB_TOKEN: ${{ secrets.BINDAAS }}
