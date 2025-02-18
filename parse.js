@@ -3,7 +3,7 @@ const fs = require('fs');
 
 // Array of URLs to parse
 const playlistUrls = [
-    'http://humiptv.live:8080/get.php?username=benben&password=benben&type=m3u_plus',
+    'https://raw.githubusercontent.com/byte-capsule/Toffee-Channels-Link-Headers/refs/heads/main/toffee_OTT_Navigator.m3u',
     'http://watchindia.net:8880//get.php?username=97869&password=86543&type=m3u_plus',
     'http://starshare.org:8080/get.php?username=328503759312&password=583956375836&type=m3u_plus&output=ts'
 ];
