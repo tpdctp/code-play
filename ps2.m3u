@@ -5,7 +5,7 @@ http://watchindia.net:8880/live/97869/86543/2232.ts
 http://watchindia.net:8880/live/97869/86543/2456.ts
 #EXTINF:-1,-1 tvg-id="starsports1hd.in" tvg-name="Star Sports 1 HD (3)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD (3)
 http://watchindia.net:8880/live/97869/86543/2678.ts
-#EXTINF:-1,-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sports 1 HD (Hindi)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD.png" group-title="Sports",Star Sports 1 HD (Hindi)
+#EXTINF:-1,-1 tvg-id="starsports1hdhindi.in" tvg-name="Star Sports 1 HD (Hindi)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_1_HD_Hindi.png" group-title="Sports",Star Sports 1 HD (Hindi)
 http://watchindia.net:8880/live/97869/86543/2673.ts
 #EXTINF:-1,-1 tvg-id="sonymax.in" tvg-name="Star Sports 2 HD (1)" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_2_HD.png" group-title="Sports",Star Sports 2 HD (1)
 http://watchindia.net:8880/live/97869/86543/1069.ts
@@ -243,6 +243,8 @@ http://watchindia.net:8880/live/97869/86543/838.ts
 http://watchindia.net:8880/live/97869/86543/2237.ts
 #EXTINF:-1,-1 tvg-id="nick.in" tvg-name="Nick Hindi" tvg-logo="https://watchindia.net/images/channels/hindi/Nick_Hindi.png" group-title="Hindi",Nick Hindi
 http://watchindia.net:8880/live/97869/86543/2182.ts
+#EXTINF:-1,-1 tvg-id="cartoonnetworkhd.in" tvg-name="Cartoon Network HD+" tvg-logo="http://watchindia.net/images/channels/hindi/CN_HD+.png" group-title="Hindi",Cartoon Network HD+
+http://watchindia.net:8880/live/97869/86543/2718.ts
 #EXTINF:-1,-1 tvg-id="rbharat.in" tvg-name="Republic Bharat" tvg-logo="https://watchindia.net/images/channels/hindi/Republic_Bharat.png" group-title="Hindi",Republic Bharat
 http://watchindia.net:8880/live/97869/86543/817.ts
 #EXTINF:-1,-1 tvg-id="republictv.in" tvg-name="Republic TV News" tvg-logo="https://watchindia.net/images/channels/hindi/Republic_TV_News.png" group-title="Hindi",Republic TV News
@@ -2657,3 +2659,7 @@ http://watchindia.net:8880/movie/97869/86543/2713.mkv
 http://watchindia.net:8880/movie/97869/86543/2714.mkv
 #EXTINF:-1,-1 tvg-id="" tvg-name="Swargam (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vvESXaz3562U7zT2BttrV5VTMLf.jpg" group-title="Malayalam",Swargam (2024)
 http://watchindia.net:8880/movie/97869/86543/2715.mkv
+#EXTINF:-1,-1 tvg-id="" tvg-name="Oru Kattil Oru Muri (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ncmPqZB7mAulMjYMBEmj9j1uxoC.jpg" group-title="Malayalam",Oru Kattil Oru Muri (2024)
+http://watchindia.net:8880/movie/97869/86543/2716.mkv
+#EXTINF:-1,-1 tvg-id="" tvg-name="Manorajyam (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/y3s3FQOZoLzyF3lLPAYRtLwFZo7.jpg" group-title="Malayalam",Manorajyam (2024)
+http://watchindia.net:8880/movie/97869/86543/2717.mkv
