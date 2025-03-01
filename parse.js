@@ -3,7 +3,7 @@ const fs = require('fs');
 
 // Array of URLs to parse
 const playlistUrls = [
-    'https://raw.githubusercontent.com/byte-capsule/Toffee-Channels-Link-Headers/refs/heads/main/toffee_OTT_Navigator.m3u',
+    'https://m3u.ygxworld.in/p/Kz3f9K7qb7io/playlist.m3u',
     'http://watchindia.net:8880//get.php?username=97869&password=86543&type=m3u_plus',
     'http://starshare.org:8080/get.php?username=328503759312&password=583956375836&type=m3u_plus&output=ts'
 ];
