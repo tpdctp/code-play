@@ -3,7 +3,7 @@ const fs = require('fs');
 
 // Array of URLs to parse
 const playlistUrls = [
-    'https://raw.githubusercontent.com/alex4528/m3u/refs/heads/main/z5.m3u',
+    'https://denverisalive.vercel.app/Playlist/SonyLIV.m3u',
     'http://watchindia.net:8880//get.php?username=97869&password=86543&type=m3u_plus',
     'http://starshare.org:8080/get.php?username=328503759312&password=583956375836&type=m3u_plus&output=ts'
 ];
